@@ -1,0 +1,11 @@
+numpy
+nltk
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+ipykernel
+keras-core
+keras-nlp
+tensorflow
